@@ -2,9 +2,9 @@
 
 > Uncovering hidden structure in Bitcoin price dynamics using unsupervised learning, anomaly detection, and change-point analysis.
 
-👉 **Start here: [`main_notebook.ipynb`](main_notebook.ipynb)**
+**Start here: [`main_notebook.ipynb`](main_notebook.ipynb)**
 
-📺 **[Project Video](https://youtu.be/v8PicaSg21M?si=fjuLhISDmrwmNr4L)** 
+**[Project Video](https://youtu.be/v8PicaSg21M?si=fjuLhISDmrwmNr4L)** 
 
 ---
 
