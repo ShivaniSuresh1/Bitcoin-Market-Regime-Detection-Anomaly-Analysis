@@ -4,7 +4,7 @@
 
 **Start here: [`main_notebook.ipynb`](main_notebook.ipynb)**
 
-**[Project Video](https://youtu.be/v8PicaSg21M?si=fjuLhISDmrwmNr4L)** 
+**Video: [Project Video](https://youtu.be/v8PicaSg21M?si=fjuLhISDmrwmNr4L)** 
 
 ---
 
