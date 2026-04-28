@@ -20,18 +20,6 @@ df = kagglehub.load_dataset(
 )
 ```
 
-You will need a Kaggle account and your API token configured. If you haven't done this before:
-
-1. Go to [https://www.kaggle.com/settings](https://www.kaggle.com/settings) → **API** → **Create New Token**
-2. This downloads a `kaggle.json` file
-3. In Colab, upload it and run:
-   ```python
-   import os
-   os.makedirs("/root/.kaggle", exist_ok=True)
-   # Upload kaggle.json, then:
-   os.rename("kaggle.json", "/root/.kaggle/kaggle.json")
-   os.chmod("/root/.kaggle/kaggle.json", 0o600)
-   ```
 
 ## Manual download (alternative)
 
